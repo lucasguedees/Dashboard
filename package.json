@@ -10,3 +10,8 @@
   "author": "",
   "license": "ISC"
 }
+{
+  "scripts": {
+    "build": "remix vite:build"
+  }
+}
